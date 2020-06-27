@@ -1,0 +1,16 @@
+Pillow
+django
+djangorestframework
+drf-yasg
+python-dotenv
+collectstatic
+django-grappelli
+dj-email-url
+boto3
+django-storages
+social-auth-app-django
+django-twilio
+
+
+
+
